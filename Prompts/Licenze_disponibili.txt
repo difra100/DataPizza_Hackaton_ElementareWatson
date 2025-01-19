@@ -1,0 +1,15 @@
+Le license (in alcuni documenti chiamate skills) esistenti sono:
+
+Psionica (P), livelli possibili [0,I,II,III,IV,V]
+Temporale (t), livelli possibili [0,I,II,III]
+Gravitazionale (G), livelli possibili [livello 0: 5 < G ≤ 10, posseduta da tutti se non diversamente specificato, I, II, III]
+Antimateria (e+), livelli possibili [0,I]
+Magnetica (Mx), livelli possibili [livello 0 possieduta da tutti se non diversamente specificato,I]
+Quantistica (Q), livelli possibili [livello n]
+Luce (c), livelli possibili [0,I,II,III]
+Livello di Sviluppo Tecnologico (LTK), livelli possibili [0,I,II,III,IV,V,VI,VI+]
+
+Gli ordini esistenti sono:
+Ordine della Galassia di Andromeda
+Ordine dei Naturalisti
+Ordine degli Armonisti

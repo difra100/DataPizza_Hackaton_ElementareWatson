@@ -1,0 +1,16 @@
+"""Estrai da un PDF un menu composto da più piatti, restituendo un output in formato JSON in cui ogni piatto è rappresentato con il nome, gli ingredienti e le tecniche utilizzate per la preparazione. L'output deve avere questa struttura:
+{
+  "<Nome Piatto>": {
+    "Ingredienti": [
+      "<Ingrediente1>",
+      "<Ingrediente2>",
+      ...
+    ],
+    "Tecniche": [
+      "<Tecnica1>",
+      "<Tecnica2>",
+      ...
+    ]
+  }
+}
+Assicurati di analizzare correttamente il testo per individuare i nomi dei piatti, le sezioni relative agli ingredienti e quelle relative alle tecniche."""

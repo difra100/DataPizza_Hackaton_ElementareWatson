@@ -1,0 +1,44 @@
+"Estrai da un PDF informazioni relative a ristoranti, restituendo un output in formato JSON con i seguenti dettagli per ogni ristorante:
+
+- Nome del ristorante (dal titolo)
+- Nome dello chef (sotto il titolo)
+- Nome del pianeta (se presente)
+- Licenze e skills in forma di elenco
+- Tecnologie in forma di elenco
+
+L'output deve avere questa struttura:
+
+```json
+{
+  "Nome_ristorante": "<nome_del_ristorante>",
+  "Nome_chef": "<nome_dello_chef>",
+  "Nome_pianeta": "<nome_del_pianeta>",
+  "Licenze": [
+    "<licenza 1>",
+    "<licenza 2>",
+    ...
+  ],
+  "Ordini": [
+    "<ordine 1>",
+    "<ordine 2>",
+    ...
+  ]
+}
+```
+
+Licenze e skills VALIDE includono:
+- Psionica (P): livelli [0, I, II, III, IV, V]
+- Temporale (t): livelli [0, I, II, III]
+- Gravitazionale (G): livelli [livello 0: 5 < G ≤ 10, I, II, III]
+- Antimateria (e+): livelli [0, I]
+- Magnetica (Mx): livelli [livello 0, I]
+- Quantistica (Q): livelli [livello n]
+- Luce (c): livelli [0, I, II, III]
+- Livello di Sviluppo Tecnologico (LTK): livelli [0, I, II, III, IV, V, VI, VI+]
+
+Riconosci anche gli ordini VALIDE:
+- Ordine della Galassia di Andromeda
+- Ordine dei Naturalisti
+- Ordine degli Armonisti
+
+Individua correttamente le informazioni richieste nel PDF e organizza l'output seguendo la struttura indicata."
