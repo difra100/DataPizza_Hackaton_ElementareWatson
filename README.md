@@ -1,5 +1,5 @@
 # DataPizza_Hackaton_Simpliciter_Team
-Questa repository contiene il codice usato dal team ElementareWatson per il primo hackaton di Datapizza.  
+Questa repository contiene il codice usato dal team **Simpliciter** per il primo hackaton di Datapizza.  
 L'obiettivo della sfida è quello di usare Generative AI per poter rispondere a delle query relative a preparazioni culinarie di un mondo intergalattico fittizio.  
 Per poter portare a termine è possibile usare pipeline basate su RAG, e sistemi di Agentic AI.
 
